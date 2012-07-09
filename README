@@ -1,0 +1,63 @@
+=================
+PROJECT GROUNDHOG
+=================
+Start each day with:
+
+New Album Project
+  Requirements
+    Multi-user
+    Each User Has Multiple Albums
+    Each Album Has Multiple Photos
+=================
+Once the previous comes naturally start adding the following features
+
+  Anubian - Email photo Uploads
+  Atraxi - Add photo via URL
+  Boekind - HTML5 Drag and Drop Upload
+  Boor - Comments
+  Ceccec - Tags
+  Craxon - Shared Albums between Users
+  Dalek - Validations
+  Drolag - Generate Thumbnail Images (not image resize)
+  Eskoni - Ratings
+  Eyeless - Hot or Not
+  Fodoran - Run on Heroku
+  Fuegolem - Photo Filters (Sepia, B/w, ...)
+  Gati - JS based Editor (Crop, Resize, ...)
+  Glob - Add text over photos (icanhazcheeseburger-style)
+  Huduct - Slideshow mode for Albums
+  Hufko - Share Photos Via Email
+  Iarcho - Uploads Subscriptions List (email notification)
+  Isari - Facebook / Twitter / Github Authentication
+  Jathaa - Nice Layout CSS
+  Jax - Store files in: Filesystem
+  Kaled - Store files in: Database
+  Kosnax - Store files in: Cloud Amazon S3
+  Lamadine - Store files in: Dropbox
+  Leppo - Media RSS Feed
+  Mammox - Scrub through photos in a library
+  Moog - Build animated gifs
+  Narg - EXIF Metadata
+  Nekkistani - Analytics
+  Okk - Sort Popular based on Ratings
+  Ood - Sortable based on date
+  Plath - NSFW Filtering Tool
+  Pyron - Query stats of photos (e.g. Colors Used, Brighter/Darker)
+  Quarsian - Caching
+  Quintani - Chrome extension “More Interestingness” with uploaded photos
+  Ranfo - C-Names / Subdomains
+  Rill - Generate PDF of Album
+  Shill - Backbone.js
+  Sylan - JSON API
+  Tendrak - Carrierwave
+  Thraal - Devise
+  Unnoticed - Omniauth
+  Vardon - HAML
+  Vox - 
+  Waska - 
+  Weave - 
+  Xylok - 
+  Ymerl - 
+  Yogloth - 
+  Zodin - 
+  Zynog -
